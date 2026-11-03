@@ -37,7 +37,8 @@ int main(int argc, char* argv[]) {
 	{ "Package-manager-esque upgrade command."		, CUSTOM	, "upgrade, u" },\
 	{ "Package-manager-esque uninstall command."		, CUSTOM	, "uninstall" },\
 	{ "Check if these commands exist (they don't)"		, CUSTOM	, "check, c" },\
-	{ "\n\nhelp.h Made by Silenceman (eestsoftware@gmail.com)", CUSTOM	, "NOCOL" },\
+	{ "\n\nhelp.h Made by Silenceman (eestsoftware@gmail.com)", HEADING	, "NOCOL" },\
+	{ "Github: https://github.com/eestsoftware/help.h", HEADING	, "NOCOL" },\
 	{0, 0, 0, 0},\
     };
 

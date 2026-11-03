@@ -1,20 +1,20 @@
 # help.h
 
 Very simple header-only library for formatting CLI help output. Taken and made more extensible from [one of my previous projects](https://github.com/eestsoftware/titris).
-Documentation found in the comment inside of the `help.h` file.
+Extensive documentation found in the comment inside of the [help.h](./help.h) file.
 
 ## Quick Start
 
 Check [example.c](./example.c) for a basic example of what you can do with it.
 
-```console
+```sh
 $ cc -o example ./example.c
 $ ./example
 ```
 
 Output:
 
-```sh
+```console
 ------------------------------------------------------------
 An argument is required.
 
